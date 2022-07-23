@@ -24,3 +24,9 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
+
+      install triggers:
+        - 
+
+
+install python2
